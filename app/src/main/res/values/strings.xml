@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Flickr Search</string>
+    <string name="search_title">Search</string>
+    <string name="ok">OK</string>
+    <string name="loading">Loading</string>
+    <string name="no_internet">No internet</string>
+    <string name="error">Some error has occurred. Try again later</string>
+    <string name="click_search">Click search button in toolbar</string>
+</resources>
